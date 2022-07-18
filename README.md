@@ -1,4 +1,4 @@
-## Oie eu sou a Cauane Oliveira, criadora de conteúdo de programação e tecnologia!
+## Oie eu sou a Cauane Oliveira, amo programação e tecnologia!
 <div align="center">
   <a href="https://github.com/CauaneOliveira">
     
