@@ -1,4 +1,12 @@
-## Oie eu sou a Cauane Oliveira, amo programação e tecnologia!
+### Oie eu sou a Cauane 🙋🏼‍♀️!
+
+- ⚙ Atualmente estou trabalhando como Técnica em informática
+- 📚 Estou no último ano do curso Técnico em informática
+- 🤗 Pronomes: Ela/Dela
+- 🙋🏼‍♀️ Sobre mim: Amo ler, ouvir musica, jogar, assistir series/filmes, os diversos esportes, principalmente sair com os amigos e familiares
+  
+##
+
 <div align="center">
   <a href="https://github.com/CauaneOliveira">
     
