@@ -1,7 +1,7 @@
 ### Oie eu sou a Cauane 🙋🏼‍♀️!
 
-- ⚙ Atualmente estou trabalhando como Técnica em informática
-- 📚 Estou no último ano do curso Técnico em informática
+- ⚙ Técnica em TI
+- 📚 Programadora, Full Stack
 - 🤗 Pronomes: Ela/Dela
 - 🙋🏼‍♀️ Sobre mim: Amo ler, ouvir musica, jogar, assistir series/filmes, os diversos esportes, principalmente sair com os amigos e familiares
   
