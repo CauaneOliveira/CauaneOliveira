@@ -1,6 +1,6 @@
 ### Oie eu sou a Cauane 🙋🏼‍♀️!
 
-- ⚙ Técnica em TI
+- ⚙ Analista de Sistemas
 - 📚 Programadora, Full Stack
 - 🤗 Pronomes: Ela/Dela
 - 🙋🏼‍♀️ Sobre mim: Amo ler, ouvir musica, jogar, assistir series/filmes, os diversos esportes, principalmente sair com os amigos e familiares
