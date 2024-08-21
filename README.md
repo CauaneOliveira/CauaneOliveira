@@ -28,7 +28,7 @@
   <img align="center" alt="Cah-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Cah-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Cah-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-  <img align="right" alt="Cah-pic" height="210" style="border-radius:50px;"     src="">
+  <img align="right" alt="Cah-pic" height="210" style="border-radius:50px;" src="https://github.com/CauaneOliveira/CauaneOliveira/blob/main/img/PANDIS_SEM_FUNDO.png">
 </div>
   
   ##
