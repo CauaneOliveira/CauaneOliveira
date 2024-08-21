@@ -1,9 +1,9 @@
 ### Oie eu sou a Cauane 🙋🏼‍♀️!
 
-- ⚙ Analista de Sistemas
-- 📚 Programadora, Full Stack
+- ⚙ Analista de Negocios
+- 📚 Programadora, Tecnica em Informática
 - 🤗 Pronomes: Ela/Dela
-- 🙋🏼‍♀️ Sobre mim: Amo ler, ouvir musica, jogar, assistir series/filmes, os diversos esportes, principalmente sair com os amigos e familiares
+- 🙋🏼‍♀️ Sobre mim: Amo ler, ouvir musica, jogar, assistir series/filmes, os diversos esportes, principalmente sair com os amigos e familiares.
   
 ##
 
@@ -28,7 +28,7 @@
   <img align="center" alt="Cah-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Cah-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Cah-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-  <img align="right" alt="Cah-pic" height="210" style="border-radius:50px;"     src="https://cdn.discordapp.com/attachments/692867780780752927/998660010919858227/PANDIS_SEM_FUNDO.png">
+  <img align="right" alt="Cah-pic" height="210" style="border-radius:50px;"     src="">
 </div>
   
   ##
