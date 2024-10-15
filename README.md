@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/CauaneOliveira">
     
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CauaneOliveira&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaneOliveira&layout=compact&theme=buefy&hide_border=true" /></a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaneOliveira&layout=compact&theme=buefy&hide_border=true" /></a>
   
 </div>
   
