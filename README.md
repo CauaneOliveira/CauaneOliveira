@@ -32,7 +32,7 @@ Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novas forma
     <img align="center" alt="Cah-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
     <img align="center" alt="Cah-Apex" height="30" width="40" src="https://www.svgrepo.com/show/355152/oracle.svg">
     <img align="center" alt="Cah-PL/SQL" height="30" width="40" src="https://www.svgrepo.com/show/373980/plsql.svg">
-    <img align="right" alt="Cah-pic" height="240" style="border-radius:50px;" src="https://github.com/CauaneOliveira/CauaneOliveira/blob/main/img/PANDIS_SEM_FUNDO.png">
+    <img align="right" alt="Cah-pic" height="210" style="border-radius:50px;" src="https://github.com/CauaneOliveira/CauaneOliveira/blob/main/img/PANDIS_SEM_FUNDO.png">
   </div>
   
   ##
