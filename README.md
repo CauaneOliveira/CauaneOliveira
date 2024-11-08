@@ -15,7 +15,7 @@ Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novas forma
  - **Desenvolvimento Full Stack**: Utilizando Python no front-end e Java no back-end.
  - **Automação e Integrações**: Trabalhando com APIs REST.
  - **Oracle APEX**: Implementação de soluções para automatizar tarefas manuais dos sistemas da Prefeitura Municipal de São José dos Campos.
- - **Analise de Negócios**: Realizando levantamento,identificação e colaboração de soluções e oportunidades de melhoria nos processos junto aos Stakeholders.
+ - **Analise de Negócios**: Realizando levantamento, identificação e colaboração de soluções e oportunidades de melhoria nos processos junto aos Stakeholders.
 
 ##
 
