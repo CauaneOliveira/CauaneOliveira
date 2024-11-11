@@ -16,6 +16,7 @@ Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novas forma
  - **Automação e Integrações**: Trabalhando com APIs REST.
  - **Oracle APEX**: Implementação de soluções para automatizar tarefas manuais dos sistemas da Prefeitura Municipal de São José dos Campos.
  - **Analise de Negócios**: Realizando levantamento, identificação e colaboração de soluções e oportunidades de melhoria nos processos junto aos Stakeholders.
+ - **Analise de Dados**: Tomada de decisões através de uma analise mais concreta e estratégica.
 
 ##
 
