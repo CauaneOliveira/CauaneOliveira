@@ -57,7 +57,6 @@ Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novas forma
 
 ## 📂 Projetos em Destaque 
  - 📂 **TCC Técnico em Informatica (Colegio Univap):** Aplicação web para o monitoramento e controle do consumo de energia elétrica residencial. [Visite o repositório](https://github.com/CauaneOliveira/monitoramento_energia)
- - 📂 **Calculo de Nota Unip:** Software para calcular a nota semestral e final com estimativas de notas. [Visite o repositório](https://github.com/CauaneOliveira/calculo_media)
   
 <br>
 
