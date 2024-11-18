@@ -51,7 +51,8 @@ Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novas forma
 <br>
 
 ## 🌱 Projetos Atuais 
-  - 🌾 **SkyGreens**: Sistema de Gerenciamento de Fazendas Urbanas [Visite o repositório](https://github.com/SkyGreens/fazendasurbanasIV)
+  - 🌱 **SkyGreens**: Sistema de Gerenciamento de Fazendas Urbanas [Visite o repositório](https://github.com/SkyGreens/fazendasurbanasIV)
+  - 🌱 **Duarte Cartões**: Sistema de acompanhamento e controle de pedidos de design (Planejamento)
 
 <br>
 
