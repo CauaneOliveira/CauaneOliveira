@@ -51,13 +51,14 @@ Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novas forma
 <br>
 
 ## 🌱 Projetos Atuais 
-  - 🌱 **SkyGreens**: Sistema de Gerenciamento de Fazendas Urbanas. [Visite o repositório](https://github.com/SkyGreens/fazendasurbanasIV)
-  - 🌱 **Duarte Cartões**: Sistema de acompanhamento e controle de pedidos de design. (Planejamento)
+  
+  - 🌱 **Duarte Cartões**: Sistema de acompanhamento e controle de pedidos de design. [Visite o repositório](https://github.com/CauaneOliveira/DuarteCartoes)
 
 <br>
 
 ## 📂 Projetos em Destaque 
  - 📂 **TCC Técnico em Informatica (Colegio Univap):** Aplicação web para o monitoramento e controle do consumo de energia elétrica residencial. [Visite o repositório](https://github.com/CauaneOliveira/monitoramento_energia)
+ - 📂 **SkyGreens**: Sistema de Gerenciamento de Fazendas Urbanas. [Visite o repositório](https://github.com/SkyGreens/SkyGreens)
   
 <br>
 
