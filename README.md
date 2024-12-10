@@ -1,5 +1,5 @@
 # Oie, Cauane Aqui 🙋🏼‍♀️!
-Desenvolvedora Full Stack | Técnica em Informatica | Analista de Negócios
+Systems Analyst | Back-End Developer | IT Support | Python
 
 Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novas formas de transformar ideias em soluções inovadoras. Atualmente, estou no último semestre da minha jornada acadêmica na UNIP, onde curso Analise e Denvolvimento de Sistemas e estou me preparando para me especializar ainda mais na área de Gestão em Tecnologia da Informação e Analise de Dados após a conclusão.
 
@@ -12,7 +12,7 @@ Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novas forma
 ##
 
 ### 🚀 Áreas de Interesse 
- - **Desenvolvimento Full Stack**: Utilizando Python no front-end e Java no back-end.
+ - **Desenvolvimento Back-End**: Utilizando Python e Java no back-end.
  - **Automação e Integrações**: Trabalhando com APIs REST.
  - **Oracle APEX**: Implementação de soluções para automatizar tarefas manuais dos sistemas da Prefeitura Municipal de São José dos Campos.
  - **Analise de Negócios**: Realizando levantamento, identificação e colaboração de soluções e oportunidades de melhoria nos processos junto aos Stakeholders.
