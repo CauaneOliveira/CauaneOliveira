@@ -52,7 +52,7 @@ Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novas forma
 
 ## 🌱 Projetos Atuais 
   
-  - 🌱 **Duarte Cartões**: Sistema de acompanhamento e controle de pedidos de design. [Visite o repositório](https://github.com/CauaneOliveira/DuarteCartoes)
+ 
 
 <br>
 
