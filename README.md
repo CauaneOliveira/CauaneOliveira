@@ -51,7 +51,7 @@ Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novas forma
 <br>
 
 ## 🌱 Projetos Atuais 
-  
+  - 🌱 **CornDrop**: Sistema automatizado para alimentação de galinhas. [Visite o repositório](https://github.com/CauaneOliveira/CornDrop)
  
 
 <br>
