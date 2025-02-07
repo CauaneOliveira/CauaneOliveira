@@ -1,7 +1,7 @@
 # Oie, Cauane Aqui 🙋🏼‍♀️!
 Systems Analyst | Back-End Developer | IT Support | Python
 
-Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novas formas de transformar ideias em soluções inovadoras. Atualmente, estou no último semestre da minha jornada acadêmica na UNIP, onde curso Analise e Denvolvimento de Sistemas e estou me preparando para me especializar ainda mais na área de Gestão em Tecnologia da Informação e Analise de Dados após a conclusão.
+Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novas formas de transformar ideias em soluções inovadoras. Atualmente, sou tecnologa em Analise e Denvolvimento de Sistemas e estou me preparando para me especializar ainda mais na área de Gestão em Tecnologia da Informação e Desenvolvimento de Softwares.
 
 - 🎮 Além de código, adoro jogos dos diferentes generos, porém minha paixão é em FPS. Amo me comunicar com a galera, sendo transmitindo ao vivo ou participando das transmissões. A experiência na BGS 2022,2023,2024,202.. foi inesquecível, reforçando minha conexão com a comunidade gamer.
 
