@@ -1,24 +1,8 @@
 # Oie, Cauane Aqui 🙋🏼‍♀️!
-Systems Analyst | Back-End Developer | IT Support | Python
+Systems Analyst | Requirements Analyst
 
 Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novas formas de transformar ideias em soluções inovadoras. Atualmente, sou tecnologa em Analise e Denvolvimento de Sistemas e estou me preparando para me especializar ainda mais na área de Gestão em Tecnologia da Informação e Desenvolvimento de Softwares.
 
-- 🎮 Além de código, adoro jogos dos diferentes generos, porém minha paixão é em FPS. Amo me comunicar com a galera, sendo transmitindo ao vivo ou participando das transmissões. A experiência na BGS 2022,2023,2024,202.. foi inesquecível, reforçando minha conexão com a comunidade gamer.
-
-- 💡 Curiosa por natureza, estou sempre explorando o uso de diferentes tecnologias e conhecimentos, desde a conexão de um hardware especifico até a construção de back-ends robustos em Java. Adoro trabalhar com automação e integração, o que me leva a experimentar novas ideias constantemente.
-
-- 🔍 Desafio-me a aprender continuamente. Com uma sólida base acadêmica e um espírito autodidata, estou comprometido em criar projetos significativos, tanto para mim quanto para a comunidade.
-
-##
-
-### 🚀 Áreas de Interesse 
- - **Desenvolvimento Back-End**: Utilizando Python e Java no back-end.
- - **Automação e Integrações**: Trabalhando com APIs REST.
- - **Oracle APEX**: Implementação de soluções para automatizar tarefas manuais dos sistemas da Prefeitura Municipal de São José dos Campos.
- - **Analise de Negócios**: Realizando levantamento, identificação e colaboração de soluções e oportunidades de melhoria nos processos junto aos Stakeholders.
- - **Analise de Dados**: Tomada de decisões através de uma analise mais concreta e estratégica.
-
-##
 
 ### 🔧 Tecnologias e Ferramentas 
 
