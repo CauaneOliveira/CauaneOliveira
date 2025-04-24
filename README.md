@@ -1,7 +1,7 @@
 # Oie, Cauane Aqui 🙋🏼‍♀️!
 Systems Analyst | Requirements Analyst
 
-Sou uma desenvolvedora apaixonada por tecnologia, sempre em busca de novas formas de transformar ideias em soluções inovadoras. Atualmente, sou tecnologa em Analise e Denvolvimento de Sistemas e estou me preparando para me especializar ainda mais na área de Gestão em Tecnologia da Informação e Desenvolvimento de Softwares.
+Sou uma Analista de Sistemas/Desenvolvedora apaixonada por tecnologia, sempre em busca de novas formas de transformar ideias em soluções inovadoras. Atualmente, sou tecnologa em Analise e Denvolvimento de Sistemas e estou me especializando na área de Gestão em Tecnologia da Informação e Engenharia de Software.
 
 
 ### 🔧 Tecnologias e Ferramentas 
