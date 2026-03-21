@@ -35,7 +35,7 @@ Sou uma Analista de Sistemas/Desenvolvedora apaixonada por tecnologia, sempre em
 <br>
 
 ## 🌱 Projetos Atuais 
-  - 🌱 **CornDrop**: Sistema automatizado para alimentação de galinhas. [Visite o repositório](https://github.com/Vortek-Solutions/CornDrop)
+  - 🌱 **CornDrop**: Sistema automatizado para alimentação de galinhas. [Visite o repositório](https://github.com/CauaneOliveira/CornDrop)
  
 
 <br>
