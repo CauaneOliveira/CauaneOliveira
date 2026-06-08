@@ -1,6 +1,6 @@
 # Oie, Cauane aqui 🙋🏼‍♀️!
 
-> Systems Analyst | Requirements Analyst | Developer
+>  Product Owner | Systems Analyst | Requirements Analyst | Developer
 
 Sou movida por tecnologia, produto e por encontrar formas mais simples de resolver problemas.
 
