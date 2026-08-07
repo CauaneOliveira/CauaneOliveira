@@ -1,14 +1,14 @@
 # Oie, Cauane aqui 🙋🏼‍♀️!
 
-> Product Owner | Systems Analyst | Requirements Analyst | Developer
+> Product Owner | Systems Analyst | Developer
 
 Sou movida por tecnologia, produto e por encontrar formas mais simples de resolver problemas.
 
-Tenho formação em Análise e Desenvolvimento de Sistemas, MBA em Gestão de Projetos e Metodologias Ágeis e estou finalizando minha especialização em Engenharia de Software.
+Tenho formação em Análise e Desenvolvimento de Sistemas, MBA em Gestão de Projetos e Metodologias Ágeis e especialização em Engenharia de Software.
 
-Hoje atuo como Analista de Requisitos, fazendo a ponte entre negócio e tecnologia no dia a dia — organizando ideias, estruturando soluções e trazendo clareza para cenários que nem sempre começam definidos.
+Hoje atuo como Product Owner em produtos digitais para o mercado LATAM, fazendo a ponte entre negócio e tecnologia no dia a dia — organizando ideias, estruturando soluções e trazendo clareza para cenários que nem sempre começam definidos.
 
-E fora do trabalho… eu continuo nisso 😅
+E fora do trabalho… eu continuo nesse hobby diferente 😅
 Gosto de me perder (no bom sentido) no meio das linhas de código, testando, criando e aprendendo na prática.
 
 <br>
@@ -54,6 +54,7 @@ Gosto de me perder (no bom sentido) no meio das linhas de código, testando, cri
 
 ## 🌱 Projetos Atuais 
   - **CornDrop**: Sistema Inteligente de Alimentação para Galinhas. [Visite o repositório](https://github.com/CauaneOliveira/CornDrop)
+  - **NexaFinances**: Gestão financeira pessoal e distribuição inteligente de saldo para metas. [Visite o repositório](https://github.com/CauaneOliveira/Nexa_Finances)
 
 <br>
  
